@@ -7,7 +7,13 @@
 ### 📌 프로필(Profile)
 <br>
 
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=whereful)](https://solved.ac/whereful)   
+- 백준 티어
+
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=whereful)](https://solved.ac/whereful)  
+<br>
+
+- 깃허브 프로필
+  
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whereful&exclude_repo=whereful.github.io&layout=compact&theme=tokyonight" />
 </a>
