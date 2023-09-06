@@ -24,9 +24,13 @@ Here are some ideas to get you started:
      
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiholee0&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/whereful)
 
-<!--[![whereful's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whereful&layout=compact&theme=nord&hide_border=true&langs_count=10)](https://github.com/whereful/github-readme-stats)-->
-[![whereful's GitHub stats](https://github-readme-stats.vercel.app/api?username=whereful&theme=nord&hide_border=true&count_private=true)](https://github.com/whereful/github-readme-stats)
- 
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whereful&exclude_repo=whereful.github.io&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=whereful&theme=tokyonight&show_icons=true" width="42%" />
+</a>
+
 <!--  <a href="https://github.com/jiholee0">
     <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=jiholee0&theme=light&height=400&width=400&bg_color=white&title_color=2f80ed&color=2f80ed&line=2f80ed&point=1074b8&custom_title=jiholee0's%20Contribution%20Graph&area=true&hide_border=true&font_color=2f80ed&font_weight=bold" />
   </a> -->
@@ -62,12 +66,6 @@ Here are some ideas to get you started:
 
  
 
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whereful&exclude_repo=whereful.github.io&layout=compact&theme=tokyonight" />
-</a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=whereful&theme=tokyonight&show_icons=true" width="42%" />
-</a>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=whereful)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
