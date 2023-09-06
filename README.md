@@ -3,12 +3,9 @@
 - 쉬움, 간단, 명료 우선
 - 자기소개 역시 쉽고, 간단하고, 명료하게
 
-
-
-
-<div align="left">
- 
  ---
+
+ [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=whereful)](https://solved.ac/whereful)
      
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiholee0&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/whereful)
 
@@ -50,7 +47,7 @@
 </div><br>
 </div>
 
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=whereful)](https://solved.ac/whereful)
+
 
  
 
