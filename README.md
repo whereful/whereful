@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=whereful&fontSize=90)
+
 ### 🚀 About Me
 - 백엔드 개발자 whereful
 - 쉬움, 간단, 명료 우선
@@ -7,12 +9,12 @@
 ### 📌 프로필(Profile)
 <br>
 
-- 백준 티어
+-  백준 티어
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=whereful)](https://solved.ac/whereful)  
 <br>
 
-- 깃허브 프로필
+-  깃허브 프로필
   
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whereful&exclude_repo=whereful.github.io&layout=compact&theme=tokyonight" />
@@ -29,6 +31,7 @@
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
     <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/>
 </div>
 
 ---
