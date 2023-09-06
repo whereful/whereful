@@ -12,7 +12,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whereful&exclude_repo=whereful.github.io&layout=compact&theme=tokyonight" />
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=whereful&theme=tokyonight&show_icons=true" width="33.5%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=whereful&theme=tokyonight&show_icons=true" width="35%" />
 </a>
 
 ---
