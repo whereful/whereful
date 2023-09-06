@@ -4,7 +4,18 @@
 - 자기소개 역시 쉽고, 간단하고, 명료하게
  ---
 
-### 프로필(Profile)
+### 📌 프로필(Profile)
+<br>
+
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=whereful)](https://solved.ac/whereful)   
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whereful&exclude_repo=whereful.github.io&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=whereful&theme=tokyonight&show_icons=true" width="33.5%" />
+</a>
+
+---
 
 ### 🔨  스킬(Skill)
 <br>
@@ -36,12 +47,3 @@
 </div>
 
 ---
-
- [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=whereful)](https://solved.ac/whereful)   
-
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whereful&exclude_repo=whereful.github.io&layout=compact&theme=tokyonight" />
-</a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=whereful&theme=tokyonight&show_icons=true" width="33.5%" />
-</a>
